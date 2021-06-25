@@ -4,8 +4,8 @@
 
 ### 我是倚栏听风 
 - 👬 大三Coder
-- 🏡 码云：<a href="https://gitee.com/xuloves" target="_blank">欢迎访问 ✨</a>
+- 🏡 码云：<a href="https://gitee.com/nodusk" target="_blank">欢迎访问 ✨</a>
 - 🌱 相信明天会更好
 
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=xuloves&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nodusk&theme=flat&column=7" alt="logo" align="center" style="margin: auto;"/>
